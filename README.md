@@ -1,8 +1,8 @@
 # mutation_literature
 
 
-# TO DO
+Please start an issue if you find some errors in the data, or you find some publications we missed in our data.
 
-I am currently actively preparing the data and code for uploading. Coming soon...
+I am trying to keep it updated.
 
-(if you need the raw data urgently, please contact me by Email: yiguan.wang@ed.ac.uk)
+TO DO: Rshiny interface for users to query mutation rate?
