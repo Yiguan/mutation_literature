@@ -4,6 +4,8 @@ Please start an issue if you find some errors in the data, or you find some publ
 
 I am trying to keep it updating, and you are wellcomed to update the data via Issues or email (yiguan.wang@outlook.com).
 
+Please note, as new species added, the R code and tree file in the repository are NOT kept updating correspondingly and may run with errors.
+
 # Citation:
 
 **Please do not forget to cite our paper** if the data set help you understand mutation rates or save you lots of time in looking for mutation rates for some species:
