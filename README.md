@@ -1,14 +1,17 @@
 # Mutation Literature
 
+This repository comprehensively and exhaustively collects the experimental estimates of germline mutation rates across all eukaryotic species (the Excel file). I am trying to keep it updating (now to August 2026), and you are wellcomed to update the data via Issues or email (yiguan.wang@outlook.com). 
+
 Please start an issue if you find some errors in the data, or you find some publications we missed in our data.
 
-I am trying to keep it updating, and you are wellcomed to update the data via Issues or email (yiguan.wang@outlook.com).
-
-Please note, as new species added, the R code and tree file in the repository are NOT kept updating correspondingly and may run with errors.
+Please note, as new species are added, the R code and tree file in the repository are NOT kept updating correspondingly and may run with errors.
 
 # Citation:
 
-**Please do not forget to cite our paper** if the data set help you understand mutation rates or save you lots of time in looking for mutation rates for some species:
+**Please DO NOT FORGET to cite our papers** if the data set help you understand mutation rates or save you lots of time in looking for mutation rates for some species:
 
-Yiguan Wang, Darren J Obbard, Experimental estimates of germline mutation rate in eukaryotes: a phylogenetic meta-analysis, Evolution Letters, Volume 7, Issue 4, August 2023, Pages 216–226, https://doi.org/10.1093/evlett/qrad027
- 
+- Wang, Y., & Obbard, D. J. (2023). Experimental estimates of germline mutation rate in eukaryotes: a phylogenetic meta-analysis. Evolution letters, 7(4), 216-226. https://doi.org/10.1093/evlett/qrad027
+
+ Or you prefer specifically on *Drosophila* mutation rates:
+
+- Wang, Y., McNeil, P., Abdulazeez, R., Pascual, M., Johnston, S. E., Keightley, P. D., & Obbard, D. J. (2023). Variation in mutation, recombination, and transposition rates in Drosophila melanogaster and Drosophila simulans. Genome Research, 33(4), 587-598. https://doi.org/10.1101/gr.277383.122
