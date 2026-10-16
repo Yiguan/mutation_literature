@@ -15,3 +15,7 @@ Please note, as new species are added, the R code and tree file in the repositor
  Or you prefer specifically on *Drosophila* mutation rates:
 
 - Wang, Y., McNeil, P., Abdulazeez, R., Pascual, M., Johnston, S. E., Keightley, P. D., & Obbard, D. J. (2023). Variation in mutation, recombination, and transposition rates in Drosophila melanogaster and Drosophila simulans. Genome Research, 33(4), 587-598. https://doi.org/10.1101/gr.277383.122
+
+# Acknowledgement
+
+Thank Jimmy Issa for carefully examination of the data set and identifying some errors.
